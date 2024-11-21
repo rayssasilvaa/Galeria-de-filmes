@@ -1,0 +1,36 @@
+.movie-page{
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    max-width: 600px;
+    margin: 2rem auto;
+}
+
+.movie-page svg{
+    font-size: 1.5rem;
+    color: #54B6F7;
+}
+
+.movie-page .movie_card{
+    text-align: center;
+}
+
+.movie-page .movie_card img,
+.movie-page .movie_card h2,
+.movie-page .movie_card p{
+    margin-bottom: 2rem;
+}
+
+.movie-page .movie_card h2{
+    font-size: 2rem;
+}
+
+.tagline{
+    text-align: center;
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
+}
+
+.info{
+    margin-bottom: 1.5rem;
+}
